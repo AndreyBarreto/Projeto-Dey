@@ -4,11 +4,12 @@ Estou estudando ciência de dados nessa quarentena e achei uma ótima ideia tent
 Meu irmão trabalha numa empresa de abastecimento de água e a empresa estava com a seguinte dúvida qual que deve ser o dimensionamento do hidrômetro e da tubulação para a construção de X áreas residenciais na região (Se o hidrômetro e a tubulação não forem dimensionados corretamente pode acontecer de a água não ser distribuída corretamente).
 
 Com isso a empresa forneceu uma tabela de clientes, onde fornece vários tipos de informações sobre eles e dessas informações são 5 que nos interessam:
-Número de áreas residenciais
-Número de áreas comerciais 
-Número de áreas indústriais
-Número de áreas públicas
-Volume lido total 
+
+▪ Número de áreas residenciais
+▪ Número de áreas comerciais 
+▪ Número de áreas indústriais
+▪ Número de áreas públicas
+▪ Volume lido total 
 
 ▪ Então o primeiro passo que vamos fazer e abrir esse DataFrame e selecionar essas colunas
 
