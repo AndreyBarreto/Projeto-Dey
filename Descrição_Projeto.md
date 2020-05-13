@@ -1,5 +1,4 @@
 # Projeto-Dey
-Projeto Dey
 Estou estudando ciência de dados nessa quarentena e achei uma ótima ideia tentar aplicar meus conhecimentos em exemplos reais  usando uma grande base de dados juntamente com o python.
 
 Meu irmão trabalha numa empresa de abastecimento de água e a empresa estava com a seguinte dúvida qual que deve ser o dimensionamento do hidrômetro e da tubulação para a construção de X áreas residenciais na região (Se o hidrômetro e a tubulação não forem dimensionados corretamente pode acontecer de a água não ser distribuída corretamente).
