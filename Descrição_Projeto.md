@@ -18,9 +18,9 @@ Com isso a empresa forneceu uma tabela de clientes, onde fornece vários tipos d
 ▪ Nesse data frame , não da pra saber quanto é o volume  de cada área só conseguimos saber de todas as áreas juntas(por exemplo uma 
 pessoa pode ter registrado em seu nome 1 área residencial e 1 comercial o volume lido sera a soma dos dois volumes lidos)
 
-▪ Então criei um novo data frame, onde é um data frame onde o as colunas de áreas indústriais e comerciais são iguais a 0. Fiz isso porque se temos como único valor a área residencial sabemos que o volume é específico dessa área
+▪ Então criei um novo data frame, onde é um data frame onde das colunas de áreas indústriais,comerciais e públicas são iguais a 0. Fiz isso porque se temos como único valor a área residencial sabemos que o volume é específico dessa área
 
-▪ Depois de ja ter o dataframe com o volume lido em relação ao número de áreas residenciais plotei um grafíco, onde o eixo das abcissas é o número de áreas residenciais e das ordenadas o Volume lido total, com isso obtemos uma correlação forte(86%), ou seja esses dados tem um relação entre eles.
+▪ Depois de ja ter o dataframe com o volume lido em relação ao número de áreas residenciais plotei um grafíco, onde o eixo das abcissas é o número de áreas residenciais e das ordenadas o Volume lido total, com isso obtemos uma correlação forte positiva(86%), ou seja esses dados tem uma forte relação entre eles.
 
 ▪ Plotei uma regressão linear no gráfico e descobri a equação da reta 
 
