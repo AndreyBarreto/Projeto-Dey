@@ -28,7 +28,7 @@ pessoa pode ter registrado em seu nome 1 área residencial e 1 comercial o volum
 
 ▪ Por exemplo uma construra vai fazer um condominio com 12 casas residenciais -> Resposta= 12.13890353 + 7.94043072*(12)
 
-▪ 107.42407223 é o Volume lido total, ou seja o dimensionamento do hidrômetro e a tubulação serão em relação a esse volume se uma construra decidir fazer um condominio com 12 casas 
+▪ 107.42407223 é o Volume lido total, ou seja o dimensionamento do hidrômetro e a tubulação serão em relação a esse volume, se uma construra decidir fazer um condominio com 12 casas 
 
 
  
